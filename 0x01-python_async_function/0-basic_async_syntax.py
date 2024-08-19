@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # 0-basic_async_syntax.py
 
-"""
+'''
 This module contains a coroutine that waits for a random delay
 between 0 and max_delay seconds and returns the delay.
-"""
+'''
 
 import asyncio
 import random
